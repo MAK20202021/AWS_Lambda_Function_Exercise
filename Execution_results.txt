@@ -1,0 +1,16 @@
+Test Event Name
+test32
+
+Response
+{
+  "statusCode": 200,
+  "body": "\"Hello from Lambda\""
+}
+
+Function Logs
+START RequestId: 3b1e92d0-8134-427a-ab55-f0faaeff51a7 Version: $LATEST
+END RequestId: 3b1e92d0-8134-427a-ab55-f0faaeff51a7
+REPORT RequestId: 3b1e92d0-8134-427a-ab55-f0faaeff51a7	Duration: 6495.17 ms	Billed Duration: 6496 ms	Memory Size: 128 MB	Max Memory Used: 92 MB	Init Duration: 349.27 ms
+
+Request ID
+3b1e92d0-8134-427a-ab55-f0faaeff51a7
