@@ -6,7 +6,7 @@ This exercise gives the idea how to create lambda function in AWS. It is serverl
 This exercise provides the details procedure how to do preprocessing data through lambda function. It attached the IAM role to work with Amazon s3 service to take preloaded data from s3 bucket. It preprocessed data and stored data to the dedicated location of s3 bucket. 
 
 ## Acknowledgement
-This exercise is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this exercise to strengthen our knowledge. This exercise platform has been taken from Udacity.
+This exercise is for [Udacity Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this exercise to strengthen our knowledge. This exercise platform has been taken from Udacity.
 ## Installation
 This exercise needs AWS account, AWS lambda service, AWS s3 service.
 
